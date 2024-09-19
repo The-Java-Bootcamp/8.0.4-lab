@@ -90,7 +90,7 @@ class BankAccount {
 1. Fork the repository
 2. Clone your fork
 3. Navigate into the repository
-4. Implement the required functionality in the `TextAnalyzer.java` file
+4. Implement the required functionality in the `BankAccountAssignment.java` file
 5. Test your implementation with various inputs
 6. Git add, commit, and push to your fork
 7. Submit a pull request
